@@ -16,3 +16,12 @@ and non-offset locations will be checked for transparency.
 If cropping was done, the alternativce_fingerprinting.ipynb notebook will be run and a hash value for equal
 windows of the two images: cropped and original will be compared and a score indicating similarity will be 
 displayed. The two windowed images will also be saved in the execution of this notebook.
+
+"Original" test image:
+https://d37k7e86lke5eg.cloudfront.net/webp-images-live/5feaff88f5d17744297bf879-1609236360622normal.webp
+
+"Plagiarized" simple:
+https://d37k7e86lke5eg.cloudfront.net/webp-images-live/5feb041cf5d17744297bfbf2-1609237532572normal.webp
+
+Cropped "plagiarized" version:
+https://d37k7e86lke5eg.cloudfront.net/webp-images-live/5feaffaff5d17744297bf883-1609236399871normal.webp
